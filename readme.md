@@ -1,4 +1,4 @@
-# Git-ing Starte with Git
+# Git-ing Started with Git
 
 #### A fun Project to learn git.
 
